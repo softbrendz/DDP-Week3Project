@@ -1,0 +1,247 @@
+year,region,province,forest_type,area_hectares
+2015,ARMM,Basilan,Closed Forest,10845.76178
+2015,ARMM,Basilan,Mangrove Forest,9708.888161
+2015,ARMM,Basilan,Open Forest,2830.07912
+2015,ARMM,Lanao del Sur,Closed Forest,63269.74137
+2015,ARMM,Lanao del Sur,Mangrove Forest,461.397678
+2015,ARMM,Lanao del Sur,Open Forest,89658.83646
+2015,ARMM,Maguindanao,Closed Forest,11444.50386
+2015,ARMM,Maguindanao,Mangrove Forest,1509.238827
+2015,ARMM,Maguindanao,Open Forest,41184.01515
+2015,ARMM,Sulu,Closed Forest,0
+2015,ARMM,Sulu,Mangrove Forest,26557.69916
+2015,ARMM,Sulu,Open Forest,2209.01876
+2015,ARMM,Tawi-tawi,Closed Forest,0
+2015,ARMM,Tawi-tawi,Mangrove Forest,14284.66441
+2015,ARMM,Tawi-tawi,Open Forest,27565.4443
+2015,CAR,Abra,Closed Forest,44797.64319
+2015,CAR,Abra,Mangrove Forest,0
+2015,CAR,Abra,Open Forest,118133.1159
+2015,CAR,Apayao,Closed Forest,102083.7365
+2015,CAR,Apayao,Mangrove Forest,0
+2015,CAR,Apayao,Open Forest,134269.759
+2015,CAR,Benguet,Closed Forest,3084.313759
+2015,CAR,Benguet,Mangrove Forest,0
+2015,CAR,Benguet,Open Forest,106385.4313
+2015,CAR,Ifugao,Closed Forest,19045.21885
+2015,CAR,Ifugao,Mangrove Forest,0
+2015,CAR,Ifugao,Open Forest,71533.0071
+2015,CAR,Kalinga,Closed Forest,53225.34608
+2015,CAR,Kalinga,Mangrove Forest,0
+2015,CAR,Kalinga,Open Forest,60654.36061
+2015,CAR,Mountain Province,Closed Forest,28308.71935
+2015,CAR,Mountain Province,Mangrove Forest,0
+2015,CAR,Mountain Province,Open Forest,65698.91583
+2015,MIMAROPA,Marinduque,Closed Forest,0
+2015,MIMAROPA,Marinduque,Mangrove Forest,3011.655997
+2015,MIMAROPA,Marinduque,Open Forest,10892.73701
+2015,MIMAROPA,Occidental Mindoro,Closed Forest,8936.863453
+2015,MIMAROPA,Occidental Mindoro,Mangrove Forest,1825.292934
+2015,MIMAROPA,Occidental Mindoro,Open Forest,107663.4503
+2015,MIMAROPA,Oriental Mindoro,Closed Forest,5906.272148
+2015,MIMAROPA,Oriental Mindoro,Mangrove Forest,3088.100633
+2015,MIMAROPA,Oriental Mindoro,Open Forest,88232.94995
+2015,MIMAROPA,Palawan,Closed Forest,91541.34638
+2015,MIMAROPA,Palawan,Mangrove Forest,59421.2007
+2015,MIMAROPA,Palawan,Open Forest,543496.4972
+2015,MIMAROPA,Romblon,Closed Forest,3776.611173
+2015,MIMAROPA,Romblon,Mangrove Forest,1057.96955
+2015,MIMAROPA,Romblon,Open Forest,18917.9966
+2015,NCR,Metro Manila,Closed Forest,0
+2015,NCR,Metro Manila,Mangrove Forest,105.8004127
+2015,NCR,Metro Manila,Open Forest,2000.401991
+2015,Region 1,Ilocos Norte,Closed Forest,19824.82699
+2015,Region 1,Ilocos Norte,Mangrove Forest,36.36897776
+2015,Region 1,Ilocos Norte,Open Forest,56191.91847
+2015,Region 1,Ilocos Sur,Closed Forest,26.59052758
+2015,Region 1,Ilocos Sur,Mangrove Forest,49.19790321
+2015,Region 1,Ilocos Sur,Open Forest,36930.67551
+2015,Region 1,La Union,Closed Forest,0
+2015,Region 1,La Union,Mangrove Forest,151.9254906
+2015,Region 1,La Union,Open Forest,7770.614767
+2015,Region 1,Pangasinan,Closed Forest,4311.627866
+2015,Region 1,Pangasinan,Mangrove Forest,1140.720192
+2015,Region 1,Pangasinan,Open Forest,21167.95898
+2015,Region 10,Bukidnon,Closed Forest,126626.2677
+2015,Region 10,Bukidnon,Mangrove Forest,0
+2015,Region 10,Bukidnon,Open Forest,75822.21903
+2015,Region 10,Camiguin,Closed Forest,3485.643731
+2015,Region 10,Camiguin,Mangrove Forest,18.9452878
+2015,Region 10,Camiguin,Open Forest,2025.807212
+2015,Region 10,Lanao del Norte,Closed Forest,15128.83611
+2015,Region 10,Lanao del Norte,Mangrove Forest,2438.606016
+2015,Region 10,Lanao del Norte,Open Forest,55710.79336
+2015,Region 10,Misamis Occidental,Closed Forest,23273.72952
+2015,Region 10,Misamis Occidental,Mangrove Forest,2472.533273
+2015,Region 10,Misamis Occidental,Open Forest,14725.54855
+2015,Region 10,Misamis Oriental,Closed Forest,10492.98449
+2015,Region 10,Misamis Oriental,Mangrove Forest,287.0677021
+2015,Region 10,Misamis Oriental,Open Forest,49847.69605
+2015,Region 11,Compostela Valley,Closed Forest,50886.44627
+2015,Region 11,Compostela Valley,Mangrove Forest,170.8178068
+2015,Region 11,Compostela Valley,Open Forest,72467.52018
+2015,Region 11,Davao del Norte,Closed Forest,11421.71491
+2015,Region 11,Davao del Norte,Mangrove Forest,563.0657249
+2015,Region 11,Davao del Norte,Open Forest,41650.7827
+2015,Region 11,Davao del Sur,Closed Forest,6037.331403
+2015,Region 11,Davao del Sur,Mangrove Forest,220.9815256
+2015,Region 11,Davao del Sur,Open Forest,26243.53598
+2015,Region 11,Davao Occidental,Closed Forest,14518.36909
+2015,Region 11,Davao Occidental,Mangrove Forest,227.1262365
+2015,Region 11,Davao Occidental,Open Forest,19709.81091
+2015,Region 11,Davao Oriental,Closed Forest,68958.15699
+2015,Region 11,Davao Oriental,Mangrove Forest,2319.290809
+2015,Region 11,Davao Oriental,Open Forest,85218.36603
+2015,Region 12,Cotabato,Closed Forest,18417.5008
+2015,Region 12,Cotabato,Mangrove Forest,658.2588064
+2015,Region 12,Cotabato,Open Forest,27080.83201
+2015,Region 12,Sarangani,Closed Forest,14995.09394
+2015,Region 12,Sarangani,Mangrove Forest,242.1370091
+2015,Region 12,Sarangani,Open Forest,38588.27421
+2015,Region 12,South Cotabato,Closed Forest,37978.02908
+2015,Region 12,South Cotabato,Mangrove Forest,32.19084402
+2015,Region 12,South Cotabato,Open Forest,36932.63476
+2015,Region 12,Sultan Kudarat,Closed Forest,21762.07244
+2015,Region 12,Sultan Kudarat,Mangrove Forest,916.2948504
+2015,Region 12,Sultan Kudarat,Open Forest,80287.36239
+2015,Region 13,Agusan del Norte,Closed Forest,3469.023244
+2015,Region 13,Agusan del Norte,Mangrove Forest,1222.000805
+2015,Region 13,Agusan del Norte,Open Forest,68889.50457
+2015,Region 13,Agusan del Sur,Closed Forest,47452.89101
+2015,Region 13,Agusan del Sur,Mangrove Forest,0
+2015,Region 13,Agusan del Sur,Open Forest,309202.6257
+2015,Region 13,Dinagat Islands,Closed Forest,6373.171134
+2015,Region 13,Dinagat Islands,Mangrove Forest,2229.990985
+2015,Region 13,Dinagat Islands,Open Forest,20774.84682
+2015,Region 13,Surigao del Norte,Closed Forest,7931.482052
+2015,Region 13,Surigao del Norte,Mangrove Forest,13913.46087
+2015,Region 13,Surigao del Norte,Open Forest,14377.18277
+2015,Region 13,Surigao del Sur,Closed Forest,60710.47798
+2015,Region 13,Surigao del Sur,Mangrove Forest,9684.284541
+2015,Region 13,Surigao del Sur,Open Forest,158541.4742
+2015,Region 2,Batanes,Closed Forest,0
+2015,Region 2,Batanes,Mangrove Forest,0
+2015,Region 2,Batanes,Open Forest,2484.533113
+2015,Region 2,Cagayan,Closed Forest,207228.9946
+2015,Region 2,Cagayan,Mangrove Forest,5083.28159
+2015,Region 2,Cagayan,Open Forest,136165.4107
+2015,Region 2,Isabela,Closed Forest,90076.17922
+2015,Region 2,Isabela,Mangrove Forest,659.2969026
+2015,Region 2,Isabela,Open Forest,300520.7533
+2015,Region 2,Nueva Viscaya,Closed Forest,98228.62766
+2015,Region 2,Nueva Viscaya,Mangrove Forest,0
+2015,Region 2,Nueva Viscaya,Open Forest,84001.30943
+2015,Region 2,Quirino,Closed Forest,92499.35804
+2015,Region 2,Quirino,Mangrove Forest,0
+2015,Region 2,Quirino,Open Forest,34015.68117
+2015,Region 3,Aurora,Closed Forest,126883.3203
+2015,Region 3,Aurora,Mangrove Forest,478.7088525
+2015,Region 3,Aurora,Open Forest,92932.98081
+2015,Region 3,Bataan,Closed Forest,10792.97785
+2015,Region 3,Bataan,Mangrove Forest,342.5063345
+2015,Region 3,Bataan,Open Forest,23325.71413
+2015,Region 3,Bulacan,Closed Forest,41653.627
+2015,Region 3,Bulacan,Mangrove Forest,436.216393
+2015,Region 3,Bulacan,Open Forest,21098.86109
+2015,Region 3,Nueva Ecija,Closed Forest,14108.73836
+2015,Region 3,Nueva Ecija,Mangrove Forest,0
+2015,Region 3,Nueva Ecija,Open Forest,61902.83961
+2015,Region 3,Pampanga,Closed Forest,649.1878731
+2015,Region 3,Pampanga,Mangrove Forest,89.27326067
+2015,Region 3,Pampanga,Open Forest,6516.341085
+2015,Region 3,Tarlac,Closed Forest,6298.481951
+2015,Region 3,Tarlac,Mangrove Forest,0
+2015,Region 3,Tarlac,Open Forest,26478.76214
+2015,Region 3,Zambales,Closed Forest,34452.87936
+2015,Region 3,Zambales,Mangrove Forest,552.8375462
+2015,Region 3,Zambales,Open Forest,67570.78534
+2015,Region 4A,Batangas,Closed Forest,134.1835781
+2015,Region 4A,Batangas,Mangrove Forest,680.3349169
+2015,Region 4A,Batangas,Open Forest,8434.686158
+2015,Region 4A,Cavite,Closed Forest,0
+2015,Region 4A,Cavite,Mangrove Forest,174.5514113
+2015,Region 4A,Cavite,Open Forest,3886.819334
+2015,Region 4A,Laguna,Closed Forest,3270.729028
+2015,Region 4A,Laguna,Mangrove Forest,0
+2015,Region 4A,Laguna,Open Forest,10017.63007
+2015,Region 4A,Quezon,Closed Forest,96416.81734
+2015,Region 4A,Quezon,Mangrove Forest,18448.19455
+2015,Region 4A,Quezon,Open Forest,113159.3964
+2015,Region 4A,Rizal,Closed Forest,7222.587807
+2015,Region 4A,Rizal,Mangrove Forest,0
+2015,Region 4A,Rizal,Open Forest,9666.53202
+2015,Region 5,Albay,Closed Forest,9143.89729
+2015,Region 5,Albay,Mangrove Forest,1325.368471
+2015,Region 5,Albay,Open Forest,20326.12913
+2015,Region 5,Camarines Norte,Closed Forest,9606.876658
+2015,Region 5,Camarines Norte,Mangrove Forest,4595.870363
+2015,Region 5,Camarines Norte,Open Forest,14674.67812
+2015,Region 5,Camarines Sur,Closed Forest,11556.00566
+2015,Region 5,Camarines Sur,Mangrove Forest,7348.823655
+2015,Region 5,Camarines Sur,Open Forest,43913.36028
+2015,Region 5,Catanduanes,Closed Forest,7733.178423
+2015,Region 5,Catanduanes,Mangrove Forest,1814.702896
+2015,Region 5,Catanduanes,Open Forest,36897.15609
+2015,Region 5,Masbate,Closed Forest,0
+2015,Region 5,Masbate,Mangrove Forest,5437.053455
+2015,Region 5,Masbate,Open Forest,91.91927172
+2015,Region 5,Sorsogon,Closed Forest,3108.658633
+2015,Region 5,Sorsogon,Mangrove Forest,3882.646534
+2015,Region 5,Sorsogon,Open Forest,17922.34723
+2015,Region 6,Aklan,Closed Forest,9849.385728
+2015,Region 6,Aklan,Mangrove Forest,1583.936556
+2015,Region 6,Aklan,Open Forest,26556.26403
+2015,Region 6,Antique,Closed Forest,20418.90818
+2015,Region 6,Antique,Mangrove Forest,905.3315931
+2015,Region 6,Antique,Open Forest,40210.85805
+2015,Region 6,Capiz,Closed Forest,11689.91284
+2015,Region 6,Capiz,Mangrove Forest,3368.639538
+2015,Region 6,Capiz,Open Forest,12552.16778
+2015,Region 6,Guimaras,Closed Forest,0
+2015,Region 6,Guimaras,Mangrove Forest,817.2530809
+2015,Region 6,Guimaras,Open Forest,0
+2015,Region 6,Iloilo,Closed Forest,1385.406444
+2015,Region 6,Iloilo,Mangrove Forest,2227.723731
+2015,Region 6,Iloilo,Open Forest,19550.34921
+2015,Region 6,Negros Occidental,Closed Forest,18681.0208
+2015,Region 6,Negros Occidental,Mangrove Forest,5496.681583
+2015,Region 6,Negros Occidental,Open Forest,28495.50582
+2015,Region 7,Bohol,Closed Forest,0
+2015,Region 7,Bohol,Mangrove Forest,12942.13716
+2015,Region 7,Bohol,Open Forest,19884.00796
+2015,Region 7,Cebu,Closed Forest,0
+2015,Region 7,Cebu,Mangrove Forest,4453.073553
+2015,Region 7,Cebu,Open Forest,3560.206536
+2015,Region 7,Negros Oriental,Closed Forest,4226.13617
+2015,Region 7,Negros Oriental,Mangrove Forest,1509.985815
+2015,Region 7,Negros Oriental,Open Forest,31971.66924
+2015,Region 7,Siquijor,Closed Forest,0
+2015,Region 7,Siquijor,Mangrove Forest,132.00283
+2015,Region 7,Siquijor,Open Forest,807.8845601
+2015,Region 8,Biliran,Closed Forest,0
+2015,Region 8,Biliran,Mangrove Forest,399.3882417
+2015,Region 8,Biliran,Open Forest,9048.893034
+2015,Region 8,Eastern Samar,Closed Forest,20432.94948
+2015,Region 8,Eastern Samar,Mangrove Forest,8059.827263
+2015,Region 8,Eastern Samar,Open Forest,154245.9318
+2015,Region 8,Leyte,Closed Forest,14179.18254
+2015,Region 8,Leyte,Mangrove Forest,6348.184481
+2015,Region 8,Leyte,Open Forest,54394.17122
+2015,Region 8,Northern Samar,Closed Forest,0
+2015,Region 8,Northern Samar,Mangrove Forest,9138.546652
+2015,Region 8,Northern Samar,Open Forest,39372.18978
+2015,Region 8,Southern Leyte,Closed Forest,4257.114334
+2015,Region 8,Southern Leyte,Mangrove Forest,437.4700597
+2015,Region 8,Southern Leyte,Open Forest,25302.27039
+2015,Region 8,Western Samar,Closed Forest,3798.05718
+2015,Region 8,Western Samar,Mangrove Forest,9668.155156
+2015,Region 8,Western Samar,Open Forest,152879.4796
+2015,Region 9,Zamboanga del Norte,Closed Forest,8882.283129
+2015,Region 9,Zamboanga del Norte,Mangrove Forest,999.4269487
+2015,Region 9,Zamboanga del Norte,Open Forest,72370.15464
+2015,Region 9,Zamboanga del Sur,Closed Forest,16131.71563
+2015,Region 9,Zamboanga del Sur,Mangrove Forest,12119.1837
+2015,Region 9,Zamboanga del Sur,Open Forest,18810.82653
+2015,Region 9,Zamboanga Sibugay,Closed Forest,2669.474111
+2015,Region 9,Zamboanga Sibugay,Mangrove Forest,11403.66258
+2015,Region 9,Zamboanga Sibugay,Open Forest,25249.73686
